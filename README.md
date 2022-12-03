@@ -1,4 +1,4 @@
-# WeatherBrain - A Weather Prediction Application
+# Weather forecast for farmers - A Weather Prediction Application
 This is the Git repository for project group 8 in the course II1302 Projects and Project Methods.
 - [WeatherBrain Website](https://weatherbrainproject.web.app/)
 - [Wiki Documments](https://github.com/CasperKristiansson/Weather-Predictor/wiki/)
